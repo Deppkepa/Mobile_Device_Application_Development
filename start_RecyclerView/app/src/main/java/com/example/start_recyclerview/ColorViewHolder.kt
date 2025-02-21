@@ -11,7 +11,7 @@ class ColorViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
     val tv = itemView.findViewById<TextView>(R.id.color)
     init {
         itemView.setOnClickListener{
-            Toast.makeText(itemView.context, "hello test", Toast.LENGTH_SHORT).show()
+            Toast.makeText(itemView.context, tv.text, Toast.LENGTH_SHORT).show()
         }
     }
     // TODO: добавить обработку нажатия на элемент списка (вывести Toast с кодом цвета)
