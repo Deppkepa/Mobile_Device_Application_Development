@@ -2,6 +2,7 @@
 .gradle/
 build/
 Menu/
+Navigation_API/
 
 # Local configuration file (sdk path, etc)
 local.properties
