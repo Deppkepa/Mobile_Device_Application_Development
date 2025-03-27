@@ -3,6 +3,8 @@
 build/
 Menu/
 Navigation_API/
+tabbed_activity/
+Work_with_fragments/
 
 # Local configuration file (sdk path, etc)
 local.properties
