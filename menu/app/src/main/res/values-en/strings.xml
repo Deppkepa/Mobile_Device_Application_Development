@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name="short_weather">Short weather</string>
+    <string name="long_weather">Long weather</string>
+    <string name="lang">en</string>
+    <string name="city">City</string>
+    <string name="temp">Temperature</string>
+    <string name="feels">Feels like</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind">Wind Speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="weather">Weather</string>
+</resources>

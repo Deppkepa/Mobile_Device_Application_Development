@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Табы</string>
+    <string name="short_weather">Короткая погода</string>
+    <string name="long_weather">Подробная погода</string>
+    <string name="lang">ru</string>
+    <string name="city">Город</string>
+    <string name="temp">Температура</string>
+    <string name="feels">Ощущается как</string>
+    <string name="pressure">Давление</string>
+    <string name="wind">Скорость ветра</string>
+    <string name="humidity">Влажность</string>
+    <string name="weather">Погода</string>
+</resources>
