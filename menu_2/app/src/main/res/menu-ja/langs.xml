@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="MissingDefaultResource">
+
+    <item
+        android:title="ロシア語"
+        app:showAsAction="ifRoom"
+        tools:ignore="HardcodedText" />
+    <item android:title="英語"
+        tools:ignore="HardcodedText" />
+    <item android:title="日本語"
+        tools:ignore="HardcodedText" />
+</menu>
