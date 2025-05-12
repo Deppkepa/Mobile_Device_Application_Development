@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">たぶす</string>
+    <string name="short_weather">短い天気</string>
+    <string name="long_weather">詳細な天気</string>
+    <string name="lang">ja</string>
+    <string name="city">市</string>
+    <string name="temp">温度</string>
+    <string name="feels">それはのように感じます</string>
+    <string name="pressure">圧力</string>
+    <string name="wind">風速</string>
+    <string name="humidity">湿度</string>
+    <string name="weather">天気</string>
+</resources>
