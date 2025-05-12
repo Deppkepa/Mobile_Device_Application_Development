@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ждун</string>
+    <string name="waiting_time">время созерцания: %1$d мин.</string>
+    <string name="tired_toast">Ждун больше не ждёт :)</string>
+    <string name="charging">Ждуна кормят!</string>
+    <string name="not_charging">Ждун опять голодает…</string>
+</resources>
